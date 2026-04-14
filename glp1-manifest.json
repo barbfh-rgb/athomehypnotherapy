@@ -1,0 +1,16 @@
+{
+  "name": "GLP-1 Nutrition",
+  "short_name": "GLP-1",
+  "description": "Nutrition tracker for GLP-1 medication users",
+  "start_url": "/glp1-nutrition.html",
+  "display": "standalone",
+  "background_color": "#0d0d0f",
+  "theme_color": "#0d0d0f",
+  "icons": [
+    {
+      "src": "glp1-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
